@@ -1,0 +1,89 @@
+resgate:
+    title: RESGATE
+    status: Disponível
+    year: 2020
+    release_date: "20/03/2020"
+    cast: ["Chris Hemsworth", "Golshifteh Farahani", "Randeep Hooda"]
+    overview: "O destemido mercenário Tyler Rake (Chris Hemsworth) não tem nada a perder quando é recrutado para resgatar o filho de um chefão do crime internacional"
+    cover: "resgate.jpg"
+
+gmz:
+    title: "Guerra Mundial Z"
+    status: "Pré-venda"
+    year: 2013
+    release_date: "28/06/2013"
+    cast: ["Brad Pitt", "Daniella Kertesz", "Mireille Enos"]
+    overview: "Um vírus letal se espalha rapidamente e transforma seres humanos em zumbis."
+    cover: "gmz.jpg"
+
+gb:
+    title: "Golpe Baixo"
+    status: "Em breve"
+    year: 2005
+    release_date: "27/05/2005"
+    cast: ["Adam Sandler", "Terry Crews", "Chris Rock"]
+    overview: "Paul Crewe é um astro do futebol americano aposentado que, após ser pego dirigindo bêbado, vai para a penitenciária Allenville."
+    cover: "gb.jpg"
+ 
+deadpool2: 
+    title: "Deadpool 2"    
+    status: "Disponível"
+    year: 2018
+    release_date: "01/05/2018"
+    cast: ["Ryan Reynolds", "Josh Brolin"]
+    overview: "O supersoldado Cable, vem do futuro para exterminar um jovem mutate, mas Deadpool tenta impedilo."
+    cover: "dp2.jpg"
+
+howends:
+    title: "Próxima Parada: Apocalipse"
+    status: "Disponível"
+    year: 2018    
+    release_date: "08/10/2018"
+    cast: []
+    overview: ""
+    cover: "howends.jpg"
+
+6rid:
+    title: "6 Ridiculos"
+    status: "Em breve"
+    year: 2015
+    release_date: "06/08/2015"
+    cast: []
+    overview: ""
+    cover: "6rid.jpg"
+
+no_title: 
+    title: ""
+    status: Disponível
+    year: 2020
+    release_date: "20/02/2020"
+    cast: []
+    overview: ""
+    cover: ""
+
+no_status: 
+    title: "Filme Test"
+    status: ""
+    year: 2020
+    release_date: "20/02/2020"
+    cast: []
+    overview: ""
+    cover: ""    
+
+no_year: 
+    title: "Filme Test"
+    status: "Disponível"
+    year: ""
+    release_date: "20/02/2020"
+    cast: []
+    overview: ""
+    cover: ""    
+
+no_date: 
+    title: "Filme Test"
+    status: "Disponível"
+    year: 2020
+    release_date: ""
+    cast: []
+    overview: ""
+    cover: ""    
